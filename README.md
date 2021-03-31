@@ -2,7 +2,7 @@
 
 现在ss跟ssr基本已经用不了了，而trojan协议是使用443端口伪装成https流量，所以稳定性比较高。
 
-1. 购买多节点服务: https://portal.shadowsocks.nz/aff.php?aff=34321
+1. 购买多节点服务（支持国内的多种支付方式）: https://portal.shadowsocks.nz/aff.php?aff=34321
 
 2. Torjan 客户端软件的下载地址: https://dl.trojan-cdn.com/
 
